@@ -19,11 +19,3 @@ for i in range(0, len(ids)):
             for x in range(0, len(ids[i])):
                 if ids[i][x] != ids[j][x]:
                     print(ids[i][0:x] + ids[i][x+1:])
-                    
-
-            
-
-
-        
-
-
